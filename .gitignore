@@ -4,6 +4,10 @@
 *.tfstate.backup
 *.tfplan
 .terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+tfplan
+vpc_ips.txt
 
 # Python
 __pycache__/
