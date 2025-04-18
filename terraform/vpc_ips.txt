@@ -1,0 +1,13 @@
+Apply complete! Resources: 9 added, 0 changed, 0 destroyed.
+
+Outputs:
+
+private_subnet_ids = [
+  "subnet-0674f6dcffaf46736",
+  "subnet-0ac0fe18bf7e373ed",
+]
+public_subnet_ids = [
+  "subnet-053c7b09e8bc47ce1",
+  "subnet-0c0fc3c451ca86f23",
+]
+vpc_id = "vpc-09f43d7e0c51c82b6"

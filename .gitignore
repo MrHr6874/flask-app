@@ -1,0 +1,27 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.hcl
+
+# Python
+__pycache__/
+*.pyc
+instance/
+.env
+*.sqlite3
+
+# Flask
+.env
+config.py  # if you plan to keep secrets here, otherwise it's fine
+
+# Misc
+.vscode/
+*.log
+*.swp
+.DS_Store
+*.bak
+
+# OS-generated files
+Thumbs.db
